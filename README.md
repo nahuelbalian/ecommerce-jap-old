@@ -1,2 +1,1 @@
-# ecommerce-jap
- Pagina ecommerce JAP
+# ecommerce-capacitador
